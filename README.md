@@ -4,6 +4,9 @@ Bu proje, **6G Near-Field (Fresnel Region) iletişim sistemlerinde makine öğre
 
 Çalışmada, **0.3 THz Sub-THz frekansında Extremely Large Antenna Array (ELAA)** tabanlı sentetik bir veri seti kullanılmıştır. Amaç, Near-Field iletişim ortamındaki fiziksel özelliklerden yararlanarak kullanıcının konumunu tahmin etmek ve bulunduğu yayılım rejimini sınıflandırmaktır.
 
+<img width="1500" height="1500" alt="kullanici_haritasi" src="https://github.com/user-attachments/assets/3a699f34-2924-473c-bd81-e22c04057c24" />
+
+
 ## 🎯 Projenin Amacı
 
 6G iletişim sistemlerinde yüksek frekanslar ve çok büyük anten dizileri, kullanıcıların konum bilgilerinin daha hassas şekilde çıkarılmasına olanak sağlayabilir.
